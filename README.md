@@ -1,5 +1,5 @@
 # 💫 About Me:
-Third year at the University of the Fraser Valley<br>interested in front end and software development
+-Third year at the University of the Fraser Valley <br>-interested in front end and software development
 
 
 ## 🌐 Socials:
