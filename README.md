@@ -1,5 +1,5 @@
 # 💫 About Me:
--Third year at the University of the Fraser Valley <br>
+-Third year comp-sci student <br>
 
 
 ## 🌐 Socials:
